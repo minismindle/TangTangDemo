@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Icons
+  m_EditorClassIdentifier: 
+  m_GroupName: Icons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bbc8098729a362b408747ed6a0c2b784
+  m_SerializeEntries:
+  - m_GUID: e447bcbb360b04744932bd571527fe26
+    m_Address: Fireballicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 27fcdc8974c1b164087f7ec31c9e8007
+    m_Address: Sawicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: e4f2971344928c84fbefd64d651f747a
+    m_Address: Titleicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: f63a041c5fb4f1d4ea40b2f58fca0552
+    m_Address: Swordicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: bd975d41bba385c4490648da45547605
+    m_Address: Bombicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: b4ff0c849ad39644e94d914223fb1303
+    m_Address: Surviveicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: d77ad95267f10684382265bebd17ebe4
+    m_Address: Deadicon.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4305360a0736ad546a388d56f649cdc6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e2197533e00b7f459230f9d99c24b4d, type: 2}
+    - {fileID: 11400000, guid: 485932f8cc3222540903832c2a1af3b7, type: 2}

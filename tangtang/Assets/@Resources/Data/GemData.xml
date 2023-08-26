@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GemDatas>
+	<GemData 
+    templateID = "30" 
+    prefab = "Apple.asset"
+    prob = "30"
+    exp = "1"
+    >
+	</GemData>
+  <GemData
+    templateID = "31"  
+    prefab = "Orange.asset"
+    prob = "50"
+    exp = "2"
+    >
+	</GemData>
+  <GemData
+    templateID = "32"  
+    prefab = "Bananas.asset"
+    prob = "60"
+    exp = "3"
+    >
+	</GemData>
+</GemDatas>

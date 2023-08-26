@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SkillDatas>
+  <SkillData
+    templateID = "200"
+    type ="Repeat"
+    skillname = "fireball"
+    prefab ="Fireball.prefab"
+    next = "201"
+    level = "0"
+    damage= "0"
+    attackrange = "0"
+    cooltime = "0"
+    lifetime = "0"
+    speed = "0" >
+  </SkillData>
+	<SkillData 
+    templateID="201" 
+    type="Repeat"
+    skillname = "fireball"
+    prefab="Fireball.prefab"
+    prev = "200"
+    next = "202"
+    level ="1"
+    damage="200" 
+    attackrange ="10" 
+    cooltime = "0.5" 
+    lifetime = "10" 
+    speed="20" >
+	</SkillData>
+	<SkillData 
+    templateID="202" 
+    type="Repeat"
+    skillname = "fireball"
+    prefab="Fireball.prefab"
+    prev = "201"
+    next = "203"
+    level ="2"
+    damage="200" 
+    attackrange ="11" 
+    cooltime = "0.4" 
+    lifetime = "10" 
+    speed="20" >
+	</SkillData>
+	<SkillData 
+    templateID="203" 
+    type="Repeat"
+    skillname = "fireball"
+    prefab="Fireball.prefab" 
+    prev = "202"
+    next = "204"
+    level ="3"
+    damage="200" 
+    attackrange ="12" 
+    cooltime = "0.3" 
+    lifetime = "10" 
+    speed="20" >
+	</SkillData>
+	<SkillData 
+    templateID="204" 
+    type="Repeat"
+    skillname = "fireball"
+    prefab="Fireball.prefab"
+    prev = "203"
+    next = "205"
+    level ="4"
+    damage="200" 
+    attackrange ="13" 
+    cooltime = "0.2" 
+    lifetime = "10" 
+    speed="20" >
+  </SkillData>
+	<SkillData 
+    templateID="205" 
+    type="Repeat"
+    skillname = "fireball"
+    prefab="Fireball.prefab"
+    prev = "204"
+    level ="5"
+    damage="200" 
+    attackrange ="14" 
+    cooltime = "0.1" 
+    lifetime = "10" 
+    speed="20" >
+	</SkillData>
+	<SkillData 
+    templateID= "210" 
+    type = "Sequence"
+    skillname = "saw"
+    prefab="Saw.prefab"
+    next = "211"
+    level ="0"
+    damage="0" 
+    attackrange ="0" 
+    speed="0" >
+	</SkillData>
+  <SkillData
+    templateID= "211"
+    type= "Sequence"
+    skillname = "saw"
+    prefab="Saw.prefab"
+    prev= "210"
+    next = "212"
+    level ="1"
+    damage="25"
+    attackrange ="2.5"
+    speed="100" >
+  </SkillData>
+	<SkillData 
+    templateID= "212" 
+    type= "Sequence"
+    skillname = "saw"
+    prefab="Saw.prefab"
+    prev = "211"
+    next = "213"
+    level ="2"
+    damage="50" 
+    attackrange ="2.6" 
+    speed="110" >
+	</SkillData>
+	<SkillData 
+    templateID= "213" 
+    type= "Sequence"
+    skillname = "saw"
+    prefab="Saw.prefab"
+    prev = "212"
+    next = "214"
+    level ="3"
+    damage="75" 
+    attackrange ="2.7" 
+    speed="120" >
+	</SkillData>
+	<SkillData 
+    templateID= "214" 
+    type= "Sequence"
+    skillname = "saw"
+    prefab="Saw.prefab"
+    prev = "213"
+    next = "215"
+    level ="4"
+    damage="100" 
+    attackrange ="2.8" 
+    speed="130" >
+	</SkillData>
+	<SkillData 
+    templateID= "215" 
+    type= "Sequence" 
+    skillname = "saw"
+    prefab="Saw.prefab"
+    prev = "214"
+    level ="5"
+    damage="125" 
+    attackrange ="2.9" 
+    speed="140" >
+	</SkillData>
+  <SkillData
+    templateID= "220"
+    type = "Sequence"
+    skillname = "sword"
+    prefab="Sword.prefab"
+    next = "221"
+    level ="0"
+    damage="0"
+    attackrange = "0"
+    lifetime ="0"
+    cooltime = "1">
+  </SkillData>
+  <SkillData
+    templateID= "221"
+    type= "Sequence"
+    skillname = "sword"
+    prefab="Sword.prefab"
+    prev= "220"
+    next = "222"
+    level ="1"
+    damage="200"
+    attackrange = "0"
+    lifetime ="0.3"
+    cooltime = "0.9">
+  </SkillData>
+  <SkillData
+    templateID= "222"
+    type= "Sequence"
+    skillname = "sword"
+    prefab="Sword.prefab"
+    prev = "221"
+    next = "223"
+    level ="2"
+    damage="200"
+    attackrange = "0"
+    lifetime ="0.3"
+    cooltime = "0.8">
+  </SkillData>
+  <SkillData
+    templateID= "223"
+    type= "Sequence"
+    skillname = "sword"
+    prefab="Sword.prefab"
+    prev = "222"
+    next = "224"
+    level ="3"
+    damage="200"
+    attackrange = "0"
+    lifetime ="0.3"
+    cooltime = "0.7">
+  </SkillData>
+  <SkillData
+    templateID= "224"
+    type= "Sequence"
+    skillname = "sword"
+    prefab="Sword.prefab"
+    prev = "223"
+    next = "225"
+    level ="4"
+    damage="200"
+    attackrange = "0"
+    lifetime ="0.3"
+    cooltime = "0.6">
+  </SkillData>
+  <SkillData
+    templateID= "225"
+    type= "Sequence"
+    skillname = "sword"
+    prefab="Sword.prefab"
+    prev = "224"
+    level ="5"
+    damage="200"
+    attackrange = "0"
+    lifetime ="0.3"
+    cooltime = "0.5">
+  </SkillData>
+  <SkillData
+    templateID= "230"
+    type = "Sequence"
+    skillname = "bomb"
+    prefab="Bomb.prefab"
+    next = "231"
+    level ="0"
+    damage="0"
+    attackrange = "0"
+    lifetime ="0"
+    cooltime = "0">
+  </SkillData>
+  <SkillData
+    templateID= "231"
+    type= "Sequence"
+    skillname = "bomb"
+    prefab="Bomb.prefab"
+    prev= "230"
+    next = "232"
+    level ="1"
+    damage="250"
+    attackrange = "7"
+    lifetime ="0.3"
+    cooltime = "1">
+  </SkillData>
+  <SkillData
+    templateID= "232"
+    type= "Sequence"
+    skillname = "bomb"
+    prefab="Bomb.prefab"
+    prev = "231"
+    next = "233"
+    level ="2"
+    damage="250"
+    attackrange = "7"
+    lifetime ="0.3"
+    cooltime = "0.8">
+  </SkillData>
+  <SkillData
+    templateID= "233"
+    type= "Sequence"
+    skillname = "bomb"
+    prefab="Bomb.prefab"
+    prev = "232"
+    next = "234"
+    level ="3"
+    damage="250"
+    attackrange = "7"
+    lifetime ="0.3"
+    cooltime = "0.7">
+  </SkillData>
+  <SkillData
+    templateID= "234"
+    type= "Sequence"
+    skillname = "bomb"
+    prefab="Bomb.prefab"
+    prev = "233"
+    next = "235"
+    level ="4"
+    damage="250"
+    attackrange = "7"
+    lifetime ="0.3"
+    cooltime = "0.6">
+  </SkillData>
+  <SkillData
+    templateID= "235"
+    type= "Sequence"
+    skillname = "bomb"
+    prefab="Bomb.prefab"
+    prev = "234"
+    level ="5"
+    damage="250"
+    attackrange = "7"
+    lifetime ="0.3"
+    cooltime = "0.5">
+  </SkillData>
+</SkillDatas>

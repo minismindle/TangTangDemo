@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: UI Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3135b73a48b82a64881b09e48fe0a94c
+  m_SerializeEntries:
+  - m_GUID: 566cb01a134c7534c801423648d6bec9
+    m_Address: UI_Joystick.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 84d073433a833014e8e99ba50adee07a
+    m_Address: UI_SkillSelectPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: cdf16d0632ae6794894ec27860c3af21
+    m_Address: UI_GameScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 45167f71314ce42409f560a609924e98
+    m_Address: UI_GameResultPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 0418bffd6550ef34787815ac983e6dff
+    m_Address: UI_SkillCard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 200da182a667d9942b5df21d974c8913
+    m_Address: UI_LobbyScene.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: f6e6be36428917e4a91013887f1e3d71
+    m_Address: EventSystem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4305360a0736ad546a388d56f649cdc6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d5c923eccaba10e4caf420b5524068d8, type: 2}
+    - {fileID: 11400000, guid: 35bcf1aafa112ea4187646bfa960b599, type: 2}

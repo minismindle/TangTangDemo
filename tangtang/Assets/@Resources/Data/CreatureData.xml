@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreatureDatas>
+  <CreatureData 
+    templateID="1" 
+    type = "Player" 
+    prefab = "Player.prefab" 
+    level = "1" 
+    speed = "5"
+    maxHp = "100"
+    maxExp = "100">
+  </CreatureData>
+  <CreatureData 
+    templateID="10" 
+    type = "Monster" 
+    prefab = "Enemy0.prefab" 
+    attack = "2"
+    speed = "1"
+    maxHp = "100">
+  </CreatureData>
+  <CreatureData 
+    templateID="11" 
+    type = "Monster" 
+    prefab = "Enemy1.prefab" 
+    attack = "3"
+    speed = "1"
+    maxHp = "120">
+  </CreatureData>
+  <CreatureData 
+    templateID="12" 
+    type = "Monster" 
+    prefab = "Enemy2.prefab" 
+    attack = "4"
+    speed = "1"
+    maxHp = "140">
+  </CreatureData>
+  <CreatureData 
+    templateID="13" 
+    type = "Monster" 
+    prefab = "Enemy3.prefab" 
+    attack = "5"
+    speed = "1"
+    maxHp = "160">
+  </CreatureData>
+  <CreatureData 
+    templateID="14" 
+    type = "Monster" 
+    prefab = "Enemy4.prefab" 
+    attack = "6"
+    speed = "1"
+    maxHp = "180">
+  </CreatureData>
+</CreatureDatas>

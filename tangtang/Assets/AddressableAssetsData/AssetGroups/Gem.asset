@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Gem
+  m_EditorClassIdentifier: 
+  m_GroupName: Gem
+  m_Data:
+    m_SerializedData: []
+  m_GUID: beb3f94d55565614bbb85e48572e83d8
+  m_SerializeEntries:
+  - m_GUID: d309182a7b4c42141a6e3a80c02a6fe3
+    m_Address: Apple.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 7211f62d94fee824aba4d6dff91541e1
+    m_Address: Orange.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: dc7ed7853dde7e240bac58c52bfce20a
+    m_Address: Bananas.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4305360a0736ad546a388d56f649cdc6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b9a68971fa52e724da842ef0a9d62af9, type: 2}
+    - {fileID: 11400000, guid: 7c96d877ece64f945909565876e5dd25, type: 2}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StageDatas>
+  <StageData stageLevel="1" nextLevel = "2" updateSec = "60" spawnInterval="1" maxMonsterCount="100"> 
+  </StageData>
+  <StageData stageLevel="2" prevLevel = "1" updateSec = "120" nextLevel = "3" spawnInterval="0.9" maxMonsterCount="120"> 
+  </StageData>
+  <StageData stageLevel="3" prevLevel = "2" updateSec = "180" nextLevel = "4" spawnInterval="0.8" maxMonsterCount="130"> 
+  </StageData>
+  <StageData stageLevel="4" prevLevel = "3" updateSec = "240" nextLevel = "5" spawnInterval="0.7" maxMonsterCount="140"> 
+  </StageData>
+  <StageData stageLevel="5" prevLevel = "4" updateSec = "300" nextLevel = "6" spawnInterval="0.6" maxMonsterCount="150"> 
+  </StageData>
+  <StageData stageLevel="6" prevLevel = "5" updateSec = "360" nextLevel = "7" spawnInterval="0.5" maxMonsterCount="160"> 
+  </StageData>
+  <StageData stageLevel="7" prevLevel = "6" updateSec = "420" nextLevel = "8" spawnInterval="0.4" maxMonsterCount="170"> 
+  </StageData>
+  <StageData stageLevel="8" prevLevel = "7" updateSec = "480" nextLevel = "9" spawnInterval="0.3" maxMonsterCount="180"> 
+  </StageData>
+  <StageData stageLevel="9" prevLevel = "8" updateSec = "540" nextLevel = "10" spawnInterval="0.2" maxMonsterCount="190"> 
+  </StageData>
+  <StageData stageLevel="10" prevLevel = "9" updateSec = "600" spawnInterval="0.1" maxMonsterCount="200"> 
+  </StageData>
+</StageDatas>

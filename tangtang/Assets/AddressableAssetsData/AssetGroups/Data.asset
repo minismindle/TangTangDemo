@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  m_GroupName: Data
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8adbb53c2e4cdcc4ab9c327e8e34e347
+  m_SerializeEntries:
+  - m_GUID: 85f1c3c861eecf14d8666840cb8848f4
+    m_Address: CreatureData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: e9b539d67bd59604a9adff33845aaf80
+    m_Address: GemData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 9426b4823e7ed194cafc6ed3f5328dea
+    m_Address: SkillData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 9aff60c5241345a4186ccd599ff181bb
+    m_Address: StageData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 6d10437dadfa9b249b333ce2fef67b3a
+    m_Address: LevelData.xml
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4305360a0736ad546a388d56f649cdc6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b609f56f41ea9bd438660242becd8002, type: 2}
+    - {fileID: 11400000, guid: c013da6023e87004a8a58e935b5a17c3, type: 2}

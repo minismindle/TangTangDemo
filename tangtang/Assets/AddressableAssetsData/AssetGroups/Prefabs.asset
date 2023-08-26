@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9374dded91fad6846bb358005ebd3753
+  m_SerializeEntries:
+  - m_GUID: c429e5c56afc5cb48ab7d751f1cf7b1c
+    m_Address: Map_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 4964957c48e1176479dcbfe6fb9cd011
+    m_Address: Player.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  - m_GUID: 13fa4eecb97b20342b14825e809a4265
+    m_Address: EXPGem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4305360a0736ad546a388d56f649cdc6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c1b581ba44e82bf479b8e406f60b3545, type: 2}
+    - {fileID: 11400000, guid: aebd2a9be34863a45ac636755cef8e62, type: 2}

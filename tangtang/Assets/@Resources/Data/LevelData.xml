@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelDatas>
+	<LevelData level ="1" maxHp ="100" maxExp="100"></LevelData>
+	<LevelData level ="2" maxHp ="110" maxExp="110"></LevelData>
+	<LevelData level ="3" maxHp ="120" maxExp="120"></LevelData>
+	<LevelData level ="4" maxHp ="130" maxExp="130"></LevelData>
+	<LevelData level ="5" maxHp ="140" maxExp="140"></LevelData>
+	<LevelData level ="6" maxHp ="150" maxExp="150"></LevelData>
+	<LevelData level ="7" maxHp ="160" maxExp="160"></LevelData>
+	<LevelData level ="8" maxHp ="170" maxExp="170"></LevelData>
+	<LevelData level ="9" maxHp ="180" maxExp="180"></LevelData>
+	<LevelData level ="10" maxHp ="190" maxExp="190"></LevelData>
+	<LevelData level ="11" maxHp ="200" maxExp="200"></LevelData>
+	<LevelData level ="12" maxHp ="210" maxExp="210"></LevelData>
+	<LevelData level ="13" maxHp ="220" maxExp="220"></LevelData>
+	<LevelData level ="14" maxHp ="230" maxExp="230"></LevelData>
+	<LevelData level ="15" maxHp ="240" maxExp="240"></LevelData>
+	<LevelData level ="16" maxHp ="250" maxExp="250"></LevelData>
+	<LevelData level ="17" maxHp ="260" maxExp="260"></LevelData>
+	<LevelData level ="18" maxHp ="270" maxExp="270"></LevelData>
+	<LevelData level ="19" maxHp ="280" maxExp="280"></LevelData>
+	<LevelData level ="20" maxHp ="290" maxExp="290"></LevelData>
+</LevelDatas>
