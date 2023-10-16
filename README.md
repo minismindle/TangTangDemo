@@ -37,7 +37,7 @@ https://github.com/minismindle/TangTangDemo/assets/103705678/6126dc07-e7f3-4de4-
 https://github.com/minismindle/TangTangDemo/assets/103705678/0dc94eb2-a0af-4a6a-8acf-6a2a0382635f
 
 
-몬스터는 시간이 지날수록 더욱 더 많이 스폰되고, 10분동안 버티면 승리하게 되는 방식입니다.
+몬스터는 시간이 지날수록 더 많이 스폰되고(1분 간격으로 증가), 10분동안 버티면 승리하게 되는 방식입니다.
 
 데모버전으로 기능을 구현하는 것에 중점을 두었기 때문에 스킬의 밸런스 문제와 난이도 문제가 약간 있지만 기획의 영역이므로 크게 신경쓰지는 않았습니다.
 
