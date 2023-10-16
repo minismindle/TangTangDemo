@@ -29,15 +29,30 @@ https://github.com/minismindle/TangTangDemo/assets/103705678/a5d21f3e-f0f2-4e8f-
 https://github.com/minismindle/TangTangDemo/assets/103705678/6126dc07-e7f3-4de4-8e12-7edac27aa258
 
 
-처음 게임에 입장하자마자 스킬을 하나 고를 수 있고, 레벨 업을 할 때마다 스킬을 레벨 업 할지 다른 스킬을 배울 지 고를 수 있고 각 스킬레벨의 최대치는 5레벨입니다.
+처음 게임에 입장하자마자 스킬을 하나 고를 수 있고,몬스터를 처치하면 경험치가 랜덤하게 부여된 과일이 드롭됩니다. 
+
+특정 경험치를 채우게 되면 레벨업을 하게 되고, 레벨 업을 할 때마다 스킬을 레벨 업 할지 다른 스킬을 배울 지 고를 수 있고 각 스킬레벨의 최대치는 5레벨입니다.
 
 게임 시작)
 
 
-https://github.com/minismindle/TangTangDemo/assets/103705678/0dc94eb2-a0af-4a6a-8acf-6a2a0382635f
+https://github.com/minismindle/TangTangDemo/assets/103705678/afe99549-62da-4c84-ac5f-3e32e347fa06
+
+
+레벨 업)
+
+
+https://github.com/minismindle/TangTangDemo/assets/103705678/fe4068b7-7ac5-4716-b509-385a3b04e641
 
 
 몬스터는 시간이 지날수록 더 많이 스폰되고(1분 간격으로 증가), 10분동안 버티면 승리하게 되는 방식입니다.
+
+1분을 주기로 다음 스테이지로 넘어간다)
+
+
+https://github.com/minismindle/TangTangDemo/assets/103705678/c90d96ad-8d0a-449b-b8df-64c87d89cc02
+
+
 
 데모버전으로 기능을 구현하는 것에 중점을 두었기 때문에 스킬의 밸런스 문제와 난이도 문제가 약간 있지만 기획의 영역이므로 크게 신경쓰지는 않았습니다.
 
