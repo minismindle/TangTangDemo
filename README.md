@@ -58,4 +58,6 @@ https://github.com/minismindle/TangTangDemo/assets/103705678/c90d96ad-8d0a-449b-
 
 하지만 기회가 된다면 이 부분도 보완할 예정입니다.
 
+게임 퀄리티를 높이기 위해 다시 작업중입니다.
+
 
